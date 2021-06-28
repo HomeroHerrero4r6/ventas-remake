@@ -7,6 +7,7 @@ Idea de Cambios En seccion Ventas
 Colores muy intensos en la interfaz
 
 La Funcionalidad Es Buena Aunque Al agregar Columnas Se Pierde Legibilidad 
+
 No es muy amigable con Dispositivos mobile
 
 ## Ideas
