@@ -8,8 +8,8 @@ Colores muy intensos en la interfaz
 La Funcionalidad Es Buena Aunque Al agregar Columnas Se Pierde Legibilidad y No es muy amigable con Dispositivos mobile
 
 ## Ideas
-Simplificar Tabla Y Agregar Opcion De Un Componente detallado de Cada Venta de esa forma se puede hacer responsive mucho mas facil y se resalta la informacion Mas importante 
-Hacer De La interfaz un poco mas Amigable a primera vista manteniendo la HErramienta ya implementada para La Gente Que Le sirve de verdad 
+Simplificar Tabla Y Agregar Opcion De Un Componente detallado de cada venta, de esa forma se puede hacer responsive mucho mas facil y se resalta la informacion Mas relevante 
+Hacer De La interfaz un poco mas Amigable a primera vista manteniendo la Herramienta ya implementada para La Gente Que La precise de realmente 
 
 ## To Test
 
