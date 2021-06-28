@@ -17,7 +17,7 @@ Hacer De La interfaz un poco mas Amigable a primera vista manteniendo la Herrami
 
 Mejorar Accecibilidad 
 
-https://raw.githubusercontent.com/HomeroHerrero4r6/ventas-remake/main/ventas.png
+https://raw.githubusercontent.com/HomeroHerrero4r6/ventas-remake/main/ventas-remakee.png
 
 ## To Test
 
