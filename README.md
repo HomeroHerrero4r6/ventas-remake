@@ -15,7 +15,9 @@ Simplificar Tabla Y Agregar Opcion De Un Componente detallado de cada venta, de 
 
 Hacer De La interfaz un poco mas Amigable a primera vista manteniendo la Herramienta ya implementada para La Gente Que La precise de realmente 
 
-Mejorar Accecibilidad y 
+Mejorar Accecibilidad 
+
+https://raw.githubusercontent.com/HomeroHerrero4r6/ventas-remake/main/ventas.png
 
 ## To Test
 
