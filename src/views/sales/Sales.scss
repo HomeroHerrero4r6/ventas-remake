@@ -1,0 +1,40 @@
+.sales-zone{
+    margin-left:220px;
+    background-color: rgb(235, 235, 235);
+    height: 95vh;
+}
+.sales-table-zone{
+    display: block;
+    margin-top: 1rem;
+}
+.sales-tools-zone:nth-child(n){
+    margin: 1.5rem;    
+}
+.sales-filter-zone{
+    display: flex;
+    gap: 4rem;
+    .select-filter{
+        width: 30%;
+    }
+}
+.sales-tools-zone{
+    display: flex;
+    justify-content: space-around;
+    .select-filter{
+        width: 30%;
+    }
+}
+.nav-Sales{
+    display:flex;
+    
+    padding-left: 1rem;
+    list-style: none;
+    gap: 3.5rem;
+    border-bottom: 1px solid rgb(223, 220, 220);
+    li{
+        padding: 1rem;
+    }
+    .ventas{
+        border-bottom: 2px solid green;
+    }
+}
